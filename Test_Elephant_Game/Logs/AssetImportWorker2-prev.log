@@ -1,0 +1,272 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.15f1 (e8e88683f834) revision 15263878'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'ru' Physical Memory: 16323 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Unity 2021.3.9f1\Editor\2021.3.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+63689
+Successfully changed project path to: E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
+E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20400] Host "[IP] 192.168.1.190 [Port] 0 [Flags] 2 [Guid] 1570863146 [EditorId] 1570863146 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OLR9VE2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [20400] Host "[IP] 192.168.1.190 [Port] 0 [Flags] 2 [Guid] 1570863146 [EditorId] 1570863146 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OLR9VE2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 91.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.15f1 (e8e88683f834)
+[Subsystems] Discovering subsystems at path E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     5968 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002893 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 77.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.542 seconds
+Domain Reload Profiling:
+	ReloadAssembly (543ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (373ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (88ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (222ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (77ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (101ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007041 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Elephant_Game\Test_Elepghant_Game\Test_Elephant_Game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Elephant_Game\Test_Elepghant_Game\Test_Elephant_Game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Domain Reload Profiling:
+	ReloadAssembly (965ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (762ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (207ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (392ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (79ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4045 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (229.4 KB). Loaded Objects now: 4495.
+Memory consumption went from 150.7 MB to 150.4 MB.
+Total: 3.328700 ms (FindLiveObjects: 0.393400 ms CreateObjectMapping: 0.115000 ms MarkObjects: 2.659400 ms  DeleteObjects: 0.159600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 670923.814508 seconds.
+  path: Assets/Undead Survivor/Animations/Enemy/RunEnemy 3.anim
+  artifactKey: Guid(b4a0a79e089002248b6884ec0140d6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Undead Survivor/Animations/Enemy/RunEnemy 3.anim using Guid(b4a0a79e089002248b6884ec0140d6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312522d9a74418172cc1d0acaea62954') in 0.036815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.341649 seconds.
+  path: Assets/Animations/undead_survaivor
+  artifactKey: Guid(74853488063781c48b4875fb385a95de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/undead_survaivor using Guid(74853488063781c48b4875fb385a95de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63438df0b682cd14c3a5d0acb4e0ef57') in 0.007121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.211073 seconds.
+  path: Assets/Animations/undead_survivor
+  artifactKey: Guid(74853488063781c48b4875fb385a95de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/undead_survivor using Guid(74853488063781c48b4875fb385a95de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44fcfa5668f444330f9ced23253ed20') in 0.007794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.975101 seconds.
+  path: Assets/Undead Survivor/Audio/BGM.wav
+  artifactKey: Guid(4559935c00ef8e94b846e2e03e39f0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Undead Survivor/Audio/BGM.wav using Guid(4559935c00ef8e94b846e2e03e39f0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2177b2ea6587613ed905f5712a950079') in 0.116952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Undead Survivor/Audio/Select.wav
+  artifactKey: Guid(4b294d59d2399014daa718b35c9de73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Undead Survivor/Audio/Select.wav using Guid(4b294d59d2399014daa718b35c9de73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013b4223a5d2143a4e35d9cc4edab67e') in 0.015465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Undead Survivor/Audio/Hit0.wav
+  artifactKey: Guid(0bddcb411d826e14bb26d40ae45d8e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Undead Survivor/Audio/Hit0.wav using Guid(0bddcb411d826e14bb26d40ae45d8e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab953c6ca668a8e73de8a3c4976ef78') in 0.012855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Undead Survivor/Audio/Lose.wav
+  artifactKey: Guid(c8a3fe17a6641ec48b38fb455a40a223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Undead Survivor/Audio/Lose.wav using Guid(c8a3fe17a6641ec48b38fb455a40a223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a91809507cea95c75174d58a0647372') in 0.011215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Undead Survivor/Audio/Hit1.wav
+  artifactKey: Guid(6b7eaf4532a2f614595ad58d2b86efc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Undead Survivor/Audio/Hit1.wav using Guid(6b7eaf4532a2f614595ad58d2b86efc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa20ca4b306594f9adc6250d7384ad6') in 0.015031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.672338 seconds.
+  path: Assets/Audio/undead_survivor
+  artifactKey: Guid(b1b99a31f02fac246869c1a2615bb30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/undead_survivor using Guid(b1b99a31f02fac246869c1a2615bb30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025199fc6613964b94e8bdfa2dcff2a6') in 0.002224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.208908 seconds.
+  path: Assets/Images/undead_survivor
+  artifactKey: Guid(c79b48d29196c524486bcfa177971e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor using Guid(c79b48d29196c524486bcfa177971e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc1f87d356c782c1538a97e4cb1603c') in 0.002193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 131.494161 seconds.
+  path: Assets/Images/undead_survivor/enemies
+  artifactKey: Guid(bfd747b40c5f8374fb75261b7f3e9bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor/enemies using Guid(bfd747b40c5f8374fb75261b7f3e9bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c85ea54661ae7ea5b2b3d483efcbaa') in 0.008056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.219037 seconds.
+  path: Assets/Images/undead_survivor/farmers
+  artifactKey: Guid(10338204ec3bf73438a0928e136081d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor/farmers using Guid(10338204ec3bf73438a0928e136081d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba0b542d951e206fb03535659279626') in 0.007071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.276701 seconds.
+  path: Assets/Images/undead_survivor/Tiles
+  artifactKey: Guid(f0a1e0dc6f4580f46876e0db6ff6ea52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor/Tiles using Guid(f0a1e0dc6f4580f46876e0db6ff6ea52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2593796041f7f2f0a96430393425dda1') in 0.002152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.607469 seconds.
+  path: Assets/Images/undead_survivor/UI
+  artifactKey: Guid(a7c08aea3568e63468458e212ef9b973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor/UI using Guid(a7c08aea3568e63468458e212ef9b973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13a360eb5ef7069a670bf7dd99b366a') in 0.002194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.623164 seconds.
+  path: Assets/Images/undead_survivor/extra
+  artifactKey: Guid(c5bc3845404475245b0af79726f7ba72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor/extra using Guid(c5bc3845404475245b0af79726f7ba72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91adcfa92c248098c7b3bac60b27a05') in 0.008076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.748976 seconds.
+  path: Assets/Images/undead_survivor/tiles
+  artifactKey: Guid(f0a1e0dc6f4580f46876e0db6ff6ea52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/undead_survivor/tiles using Guid(f0a1e0dc6f4580f46876e0db6ff6ea52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7578c730053012eaa7e6b7cd4efaf9') in 0.008218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 145.887522 seconds.
+  path: Assets/Audio/undead_survivor/music
+  artifactKey: Guid(e3abedbcf5280fd4cb1ff9bff89e7804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/undead_survivor/music using Guid(e3abedbcf5280fd4cb1ff9bff89e7804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a5b3dc305d954e51b3a6ee0eb548952') in 0.007766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.944645 seconds.
+  path: Assets/Audio/undead_survivor/sfx
+  artifactKey: Guid(5a436f01ef59168418c486ee4361d68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/undead_survivor/sfx using Guid(5a436f01ef59168418c486ee4361d68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c3769ac704d68ffd976261639faa85') in 0.006972 seconds 
