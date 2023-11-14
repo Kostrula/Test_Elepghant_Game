@@ -15,7 +15,7 @@ E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-63689
+62669
 Successfully changed project path to: E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
 E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ E:/Elephant_Game/Test_Elepghant_Game/Test_Elephant_Game
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [1096] Host "[IP] 192.168.1.190 [Port] 0 [Flags] 2 [Guid] 2567448115 [EditorId] 2567448115 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OLR9VE2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [20340] Host "[IP] 192.168.1.190 [Port] 0 [Flags] 2 [Guid] 3696755932 [EditorId] 3696755932 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OLR9VE2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [1096] Host "[IP] 192.168.1.190 [Port] 0 [Flags] 2 [Guid] 2567448115 [EditorId] 2567448115 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OLR9VE2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20340] Host "[IP] 192.168.1.190 [Port] 0 [Flags] 2 [Guid] 3696755932 [EditorId] 3696755932 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OLR9VE2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 86.26 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 101.35 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.15f1 (e8e88683f834)
 [Subsystems] Discovering subsystems at path E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/Resources/UnitySubsystems
@@ -67,37 +67,37 @@ Initialize mono
 Mono path[0] = 'E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56604
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/Unity 2021.3.9f1/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002677 seconds.
+Registered in 0.003713 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 83.60 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 100.47 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.551 seconds
+- Completed reload, in  0.588 seconds
 Domain Reload Profiling:
-	ReloadAssembly (551ms)
-		BeginReloadAssembly (78ms)
+	ReloadAssembly (588ms)
+		BeginReloadAssembly (80ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (385ms)
-			LoadAssemblies (77ms)
+		EndReloadAssembly (411ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (90ms)
+			SetupTypeCache (93ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (22ms)
-			SetupLoadedEditorAssemblies (233ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (252ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (84ms)
+				RefreshPlugins (101ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (104ms)
+				ProcessInitializeOnLoadAttributes (106ms)
 				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -105,38 +105,38 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006987 seconds.
+Registered in 0.007856 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image E:\Elephant_Game\Test_Elepghant_Game\Test_Elephant_Game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image E:\Elephant_Game\Test_Elepghant_Game\Test_Elephant_Game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 83.58 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 99.31 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.035 seconds
+- Completed reload, in  1.145 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1035ms)
+	ReloadAssembly (1146ms)
 		BeginReloadAssembly (115ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (824ms)
-			LoadAssemblies (99ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (932ms)
+			LoadAssemblies (103ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (223ms)
+			SetupTypeCache (251ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (420ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (501ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (84ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (202ms)
-				ProcessInitializeOnLoadMethodAttributes (38ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				RefreshPlugins (99ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (219ms)
+				ProcessInitializeOnLoadMethodAttributes (81ms)
+				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
@@ -144,12 +144,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.07 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 44 unused Assets / (229.4 KB). Loaded Objects now: 4495.
-Memory consumption went from 150.7 MB to 150.4 MB.
-Total: 3.408300 ms (FindLiveObjects: 0.404700 ms CreateObjectMapping: 0.105800 ms MarkObjects: 2.734100 ms  DeleteObjects: 0.162600 ms)
+Unloading 5216 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 61 unused Assets / (1.6 MB). Loaded Objects now: 5654.
+Memory consumption went from 195.9 MB to 194.4 MB.
+Total: 4.433500 ms (FindLiveObjects: 0.538200 ms CreateObjectMapping: 0.170000 ms MarkObjects: 2.933100 ms  DeleteObjects: 0.791100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -164,41 +164,1474 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 670832.532494 seconds.
-  path: Assets/Undead Survivor/Animations/Enemy/AcEnemy 2.overrideController
-  artifactKey: Guid(12cfc8b2360c2fc4499d4f6f6607671a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Undead Survivor/Animations/Enemy/AcEnemy 2.overrideController using Guid(12cfc8b2360c2fc4499d4f6f6607671a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a134299690f87e92c6e726d95f34df7') in 0.046994 seconds 
+  Time since last request: 710754.401707 seconds.
+  path: Assets/Localization/English (en).asset
+  artifactKey: Guid(e0ff3ee1d516e1d4d89ecf435ab01fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Localization/English (en).asset using Guid(e0ff3ee1d516e1d4d89ecf435ab01fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '251633dd6a988c91f2fdd26ced0dbf34') in 0.034231 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 79.756962 seconds.
-  path: Assets/Undead Survivor/Sprites/Enemy 2.png
-  artifactKey: Guid(4104ee12b4d54f54b91b3ba875787837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Undead Survivor/Sprites/Enemy 2.png using Guid(4104ee12b4d54f54b91b3ba875787837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f900d6afc942ce340b2764090cc870') in 0.126414 seconds 
+  Time since last request: 26.356035 seconds.
+  path: Assets/Localization/UItexts_de.asset
+  artifactKey: Guid(766997acecd26c543874a33aa0e92ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Localization/UItexts_de.asset using Guid(766997acecd26c543874a33aa0e92ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fae5db80b35786bcefe7f029e0231ac') in 0.014513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81.927886 seconds.
+  path: Assets/AddressableAssetsData/DefaultObject.asset
+  artifactKey: Guid(51950c526e4b299469edbcecfb3d9710) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/DefaultObject.asset using Guid(51950c526e4b299469edbcecfb3d9710) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a2f4e05e73987fe59fff66ca9489b04f') in 0.150485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Scripts/spine-csharp/Animation.cs
+  artifactKey: Guid(0471be8ffd4e311468e8aa181ab08d2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Animation.cs using Guid(0471be8ffd4e311468e8aa181ab08d2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0f649ccb58e131296a0a01f69fe5701e') in 0.016426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset
+  artifactKey: Guid(eca425d4c1acbe94a9ad9136128797de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset using Guid(eca425d4c1acbe94a9ad9136128797de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '16ced5b4fa6670c29155cb659078ad79') in 0.013503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Scripts/spine-csharp/TransformConstraintData.cs
+  artifactKey: Guid(9ecdeec1013eeca498e1bf63dec18286) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/TransformConstraintData.cs using Guid(9ecdeec1013eeca498e1bf63dec18286) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '281cf697cd63bf523a00172b48311fdf') in 0.011702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefabs/buttons/button _to_schenge_scene.prefab
+  artifactKey: Guid(0941388ee1c7b3645ba94da2b9d796b7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs/buttons/button _to_schenge_scene.prefab using Guid(0941388ee1c7b3645ba94da2b9d796b7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ce46b3558df1d6c651f298f8b772f96e') in 0.040710 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000033 seconds.
-  path: Assets/Undead Survivor/Sprites/Enemy 3.png
-  artifactKey: Guid(d33598d781682e049a53a0a13104ef29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Undead Survivor/Sprites/Enemy 3.png using Guid(d33598d781682e049a53a0a13104ef29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9830f3269c4c38064e4ec1fbbcac8a44') in 0.044983 seconds 
+  path: Assets/Scripts/spine-csharp/Slot.cs
+  artifactKey: Guid(ac4ef8cdbbd7f9d4ba69898ee8d22af2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Slot.cs using Guid(ac4ef8cdbbd7f9d4ba69898ee8d22af2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b3c7f362378378a95e662a325dc0123b') in 0.023277 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Undead Survivor/Sprites/Farmer 0.png
-  artifactKey: Guid(99a24620d31e5ce4e823c32d11e17c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Undead Survivor/Sprites/Farmer 0.png using Guid(99a24620d31e5ce4e823c32d11e17c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ecbe0f0fb00297f7e94d972c96e517') in 0.041049 seconds 
+  Time since last request: 0.000023 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-German (de)_BundledAssetGroupSchema.asset
+  artifactKey: Guid(fcc9735f93afde44f963749d32e1b186) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-German (de)_BundledAssetGroupSchema.asset using Guid(fcc9735f93afde44f963749d32e1b186) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6d91e169565e6565079b34ebb7be6655') in 0.021062 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Undead Survivor/Sprites/Enemy 4.png
-  artifactKey: Guid(c4d2ccab0c2ad7e47853b6e31a7ac7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Undead Survivor/Sprites/Enemy 4.png using Guid(c4d2ccab0c2ad7e47853b6e31a7ac7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede561bd07b8081590bb8713665d5fa1') in 0.025036 seconds 
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine_Images/spineboy/spineboy.png
+  artifactKey: Guid(49bb65eefe08e424bbf7a38bc98ec638) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine_Images/spineboy/spineboy.png using Guid(49bb65eefe08e424bbf7a38bc98ec638) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '31fc2a5c9134ae0951645c2997a45a26') in 0.134433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Localization-Assets-Shared.asset
+  artifactKey: Guid(6cbdef6ec04e4cf4ebdfb42368350b5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Localization-Assets-Shared.asset using Guid(6cbdef6ec04e4cf4ebdfb42368350b5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c8a2926c11f281393b58d9c18354c366') in 0.015670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Scripts/spine-csharp/Json.cs
+  artifactKey: Guid(261a45eee07a0634c803a606a7f7e942) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Json.cs using Guid(261a45eee07a0634c803a606a7f7e942) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0a34ce3b5049210a9ff4f57586c0c4df') in 0.011795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scripts/spine-csharp/SlotData.cs
+  artifactKey: Guid(a6f13fafe8f31514895663dff0b62053) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/SlotData.cs using Guid(a6f13fafe8f31514895663dff0b62053) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b3b358093636d20fcb821d600cb8869a') in 0.011664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset
+  artifactKey: Guid(2f2931e5f3672f44b982ee6fc282ce8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset using Guid(2f2931e5f3672f44b982ee6fc282ce8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e620fe1404b0ae83757c4e83a1299f3a') in 0.013423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/DeadEnemy 4.anim
+  artifactKey: Guid(a05f85f91fabadd46a392bb57f5cc5a6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/DeadEnemy 4.anim using Guid(a05f85f91fabadd46a392bb57f5cc5a6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '04580d38610da766b8fd424490e7967a') in 0.035883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/HitEnemy 1.anim
+  artifactKey: Guid(0a586f2d17b3b3246b04c8dda1442acd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/HitEnemy 1.anim using Guid(0a586f2d17b3b3246b04c8dda1442acd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c669457380e635fc51629f33108f8e87') in 0.020837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Audio/undead_survivor/sfx/Dead.wav
+  artifactKey: Guid(291608b8d286e2a4580ff36324455ce2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Audio/undead_survivor/sfx/Dead.wav using Guid(291608b8d286e2a4580ff36324455ce2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3510ce07aeda95267602b85d17a6d060') in 0.061858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Audio/undead_survivor/sfx/Melee0.wav
+  artifactKey: Guid(14f24de2a9a70154e96297de25e2184c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Audio/undead_survivor/sfx/Melee0.wav using Guid(14f24de2a9a70154e96297de25e2184c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f2fa0fe9fb678f2e16d0ce4b6473abb9') in 0.062481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/DeadEnemy 0.anim
+  artifactKey: Guid(59d07ac3ded26ef4190eb2f038ef5d2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/DeadEnemy 0.anim using Guid(59d07ac3ded26ef4190eb2f038ef5d2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c2b2293f6f4316209ff422d42be49ccd') in 0.017386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/HitEnemy 3.anim
+  artifactKey: Guid(5a98b614fb5327b429bd16f5a70bcb19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/HitEnemy 3.anim using Guid(5a98b614fb5327b429bd16f5a70bcb19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c446930115abd2537b69225e1aa5a49f') in 0.036862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Localization/UItexts.asset
+  artifactKey: Guid(bdba13f1149dac84d826f542f2bdbe04) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Localization/UItexts.asset using Guid(bdba13f1149dac84d826f542f2bdbe04) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0834111cc3a5445cb41d37460f8c7dfb') in 0.015728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Editor/SpineSettings.asset
+  artifactKey: Guid(31cfbb72a7e685042994e75e6e56dd8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/SpineSettings.asset using Guid(31cfbb72a7e685042994e75e6e56dd8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '203455e76905efa27b437ea400df03f3') in 0.014157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Scripts/spine-csharp/Event.cs
+  artifactKey: Guid(3f003fbfa3b41584082c25acd3c77b84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Event.cs using Guid(3f003fbfa3b41584082c25acd3c77b84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '46d8ba3281e1735e381df22af4f36b12') in 0.013042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/spine-csharp/EventData.cs
+  artifactKey: Guid(775d8b24636f28245836eb4be0f6d0c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/EventData.cs using Guid(775d8b24636f28245836eb4be0f6d0c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8b0e93ce0707b23065331d43b93a25c0') in 0.012323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/on_click/click_on_zombi.cs
+  artifactKey: Guid(e7588ff8f8b67264ea3c21ec03445802) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/on_click/click_on_zombi.cs using Guid(e7588ff8f8b67264ea3c21ec03445802) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c1cef84bac9380d7f0cfa4288a6d9e6c') in 0.015537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/DeadEnemy 3.anim
+  artifactKey: Guid(4763a7742cfcd484e818645aa1a2ba2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/DeadEnemy 3.anim using Guid(4763a7742cfcd484e818645aa1a2ba2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e64e7ec1faf632caba9d16acf187992d') in 0.020644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/zombi_enemy_0 1.controller
+  artifactKey: Guid(e8e66e40620928e438abd9bd606022ec) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/zombi_enemy_0 1.controller using Guid(e8e66e40620928e438abd9bd606022ec) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0519013ff5ba96962380beb8356debdd') in 0.014877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Scripts/spine-csharp/BoneData.cs
+  artifactKey: Guid(2103dad28857ae7499e41454be51ebad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/BoneData.cs using Guid(2103dad28857ae7499e41454be51ebad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b6f00185e65e32e052b7e06bfee69523') in 0.013580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Audio/undead_survivor/music/BGM.wav
+  artifactKey: Guid(4559935c00ef8e94b846e2e03e39f0d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Audio/undead_survivor/music/BGM.wav using Guid(4559935c00ef8e94b846e2e03e39f0d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a8dc390bf225fa545ff927381a2de6b5') in 0.069156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/full_background/2_Desert.png
+  artifactKey: Guid(9d1a3e0bc36dfc9468a738d92b6e92d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/full_background/2_Desert.png using Guid(9d1a3e0bc36dfc9468a738d92b6e92d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '370e4746a96cefd24e9555a34ff5c62b') in 0.026244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/graveyard/Layer_2.png
+  artifactKey: Guid(e9313620d8b44324ea02f98a3ee892be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/graveyard/Layer_2.png using Guid(e9313620d8b44324ea02f98a3ee892be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eff2cd77dfa579f30f35478cbcd3c38b') in 0.026383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/graveyard/Layer_3.png
+  artifactKey: Guid(ca6841502e6bca24187cacb218fd5561) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/graveyard/Layer_3.png using Guid(ca6841502e6bca24187cacb218fd5561) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '70cc0c3d1c9f927511e7d5f44ba1da6d') in 0.028649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/desert/Layer_2.png
+  artifactKey: Guid(b670707b2788d99448bbb478fc248530) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/desert/Layer_2.png using Guid(b670707b2788d99448bbb478fc248530) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c4ee9bff15c6001bb522b6d02d564295') in 0.023388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/desert/Layer_3.png
+  artifactKey: Guid(b5b8e73cc720ab446a25f00fc5ae7dc6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/desert/Layer_3.png using Guid(b5b8e73cc720ab446a25f00fc5ae7dc6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bc1919c4c3e526d4f84a2955b1aad840') in 0.024616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/full_background/1_Mountain.png
+  artifactKey: Guid(fd00b29c3d9553d4c8e0ab3b572af409) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/full_background/1_Mountain.png using Guid(fd00b29c3d9553d4c8e0ab3b572af409) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '049ac99301e0a9c1db45a840e8fe2659') in 0.023076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Scripts/spine-csharp/PathConstraintData.cs
+  artifactKey: Guid(38aa2c87edb99e349a6f51de702dad83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/PathConstraintData.cs using Guid(38aa2c87edb99e349a6f51de702dad83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f45fa9e75916e900673276e49600c3d4') in 0.012661 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000032 seconds.
-  path: Assets/Undead Survivor/Sprites/Farmer 2.png
-  artifactKey: Guid(8f7a60065e3984c489b9c4d41bc3dc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Undead Survivor/Sprites/Farmer 2.png using Guid(8f7a60065e3984c489b9c4d41bc3dc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42444e64f1b8f5795ed3303dfffe17cc') in 0.051970 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  path: Assets/Scripts/spine-csharp/TransformConstraint.cs
+  artifactKey: Guid(f3856c33f2de2c54dbf61370397951cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/TransformConstraint.cs using Guid(f3856c33f2de2c54dbf61370397951cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9722255252d67f5c67deb68d11d9ddcd') in 0.014041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scripts/spine-csharp/PathConstraint.cs
+  artifactKey: Guid(0a77885d514c082478fd0f979a9d6bc8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/PathConstraint.cs using Guid(0a77885d514c082478fd0f979a9d6bc8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ea87436e75c00078276b2ff2555031a7') in 0.013987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/RunEnemy 3.anim
+  artifactKey: Guid(b4a0a79e089002248b6884ec0140d6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/RunEnemy 3.anim using Guid(b4a0a79e089002248b6884ec0140d6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b3d6a3dc23512c3af7e4d87b1b4e6c9f') in 0.021629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Localization/English (en).asset
+  artifactKey: Guid(e0ff3ee1d516e1d4d89ecf435ab01fca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Localization/English (en).asset using Guid(e0ff3ee1d516e1d4d89ecf435ab01fca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '362c3382095533902df9f8603c82b821') in 0.013274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scripts/spine-csharp/Skin.cs
+  artifactKey: Guid(713db1a4b4d31684ebea872111c79468) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Skin.cs using Guid(713db1a4b4d31684ebea872111c79468) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e1f837af0ccee0191940303e6bff03c6') in 0.012995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Spine_Images/spineboy/spineboy-unity_SkeletonData.asset
+  artifactKey: Guid(a467507a4ffb1d542a558739b2fede77) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine_Images/spineboy/spineboy-unity_SkeletonData.asset using Guid(a467507a4ffb1d542a558739b2fede77) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e73da7df589b0751f68dede2050a864') in 0.018699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine_Images/spineboy/spineboy-unity.json
+  artifactKey: Guid(e3b64d7eaf0de4e45a00b7065166554d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine_Images/spineboy/spineboy-unity.json using Guid(e3b64d7eaf0de4e45a00b7065166554d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3b99b7f1db5c3e99874de9e70da52fba') in 0.015377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/RunEnemy 1.anim
+  artifactKey: Guid(f9fa0eff94f5c1b44a0e75ebc7f67861) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/RunEnemy 1.anim using Guid(f9fa0eff94f5c1b44a0e75ebc7f67861) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a0afd2313f07caeab39c024ebfb40ec0') in 0.021204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/desert/Layer_4.png
+  artifactKey: Guid(01c1e211013f19a479f0e2c12fea10a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/desert/Layer_4.png using Guid(01c1e211013f19a479f0e2c12fea10a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '51cde9494003c65c91926c210a6d0fe0') in 0.023924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Prefabs/enemies/on_click_enemy.prefab
+  artifactKey: Guid(0791297c313ab2448ab96c240a0974cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs/enemies/on_click_enemy.prefab using Guid(0791297c313ab2448ab96c240a0974cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ab9615668a217ab578e14f656ec52815') in 0.024321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Images/undead_survivor/enemies/Enemy 4.png
+  artifactKey: Guid(c4d2ccab0c2ad7e47853b6e31a7ac7c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/enemies/Enemy 4.png using Guid(c4d2ccab0c2ad7e47853b6e31a7ac7c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3a50aa5fccffb2e0af8ac022b5d272e6') in 0.034704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scripts/spine-csharp/Attachments/PathAttachment.cs
+  artifactKey: Guid(96d792d0de9851b44b792f337cc49678) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Attachments/PathAttachment.cs using Guid(96d792d0de9851b44b792f337cc49678) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e7f69f088a6cff0f8243ca05550e4fc') in 0.024348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/Runtime/spine-csharp/add spine-csharp here.txt
+  artifactKey: Guid(2b53e3e7c2824094b9259a24cd9a7e03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-csharp/add spine-csharp here.txt using Guid(2b53e3e7c2824094b9259a24cd9a7e03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a2b75d4536cb838b35df2930949c7dd1') in 0.016321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Images/undead_survivor/tiles/Tiles.png
+  artifactKey: Guid(9ee30eb7d2f1f404790266ee96a67099) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/tiles/Tiles.png using Guid(9ee30eb7d2f1f404790266ee96a67099) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6980c8f7b9195e5d6b786869a6b2a18b') in 0.033361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Images/undead_survivor/farmers/Farmer 0.png
+  artifactKey: Guid(99a24620d31e5ce4e823c32d11e17c2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/farmers/Farmer 0.png using Guid(99a24620d31e5ce4e823c32d11e17c2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fb71e62056cf7c21b33be600ede6b227') in 0.059900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Images/undead_survivor/enemies/Enemy 0.png
+  artifactKey: Guid(1bc6097228993f045852159e71f81d5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/enemies/Enemy 0.png using Guid(1bc6097228993f045852159e71f81d5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3541fd796590f76d6360217d3a7e0a80') in 0.034244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Scripts/spine-csharp/Attachments/RegionAttachment.cs
+  artifactKey: Guid(07563a50ddbc3f74a86f8546ea82e1e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Attachments/RegionAttachment.cs using Guid(07563a50ddbc3f74a86f8546ea82e1e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '220ca663e11afe831e2e302d27cfa8ce') in 0.012863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Images/undead_survivor/UI/UI.png
+  artifactKey: Guid(d71a3dc7aa20fad4f9a99fc76a9254ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/UI/UI.png using Guid(d71a3dc7aa20fad4f9a99fc76a9254ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e5c5e4cd31a5d7dd53ac47750d00a238') in 0.089136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/graveyard/Layer_4.png
+  artifactKey: Guid(0ceb3b7f07f8bff499799cb7cfa69fcd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/graveyard/Layer_4.png using Guid(0ceb3b7f07f8bff499799cb7cfa69fcd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f9d0cea816fdc60fb3ab1748608feaf7') in 0.020452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/AcEnemy 1.overrideController
+  artifactKey: Guid(050556270436d4f4288557291a1a99c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/AcEnemy 1.overrideController using Guid(050556270436d4f4288557291a1a99c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6e0f7fcbc057aac6810727a27b73846') in 0.043317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Images/undead_survivor/enemies/Enemy 1.png
+  artifactKey: Guid(3bcb7877229a5334da528f2f0872b5c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/enemies/Enemy 1.png using Guid(3bcb7877229a5334da528f2f0872b5c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd20db324c0434157f0f133894e17447a') in 0.039052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicTintBlackOutline.mat
+  artifactKey: Guid(94fe565c79b0aeb418cd05e4f1f8343c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicTintBlackOutline.mat using Guid(94fe565c79b0aeb418cd05e4f1f8343c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9160d6800691c746f4705473b2da8b1a') in 0.066557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Asset Types/BlendModeMaterials.cs
+  artifactKey: Guid(d03ca55657e89b949a4c07bc9207beac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Asset Types/BlendModeMaterials.cs using Guid(d03ca55657e89b949a4c07bc9207beac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bf6bf5744de05ac17f76a48382db3568') in 0.019156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicTintBlack.mat
+  artifactKey: Guid(cfcea0e11aa80bb4b8d05790b905fc31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicTintBlack.mat using Guid(cfcea0e11aa80bb4b8d05790b905fc31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ff15cc52b74ae2196bb66fb05f30720d') in 0.020934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Asset Types/OnDemandTextureLoader.cs
+  artifactKey: Guid(57d54a357da79654aad505112bb63b9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Asset Types/OnDemandTextureLoader.cs using Guid(57d54a357da79654aad505112bb63b9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8e87db87568a35fa472ab15f21d454d7') in 0.011618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Scripts/spine-csharp/Attachments/VertexAttachment.cs
+  artifactKey: Guid(f6ab57f2be6eac84d8ec286c950c62f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Attachments/VertexAttachment.cs using Guid(f6ab57f2be6eac84d8ec286c950c62f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0bc358aea81dd6e36d81ce03a07c26cb') in 0.013416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/spine-csharp/TextureRegion.cs
+  artifactKey: Guid(17b4075f6e1d4e5478f4730c2f4cc54d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/TextureRegion.cs using Guid(17b4075f6e1d4e5478f4730c2f4cc54d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c3ae417260cef7569a5b2a8ef13960e9') in 0.012599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/mountain/Layer_1.png
+  artifactKey: Guid(151eef41825813d4f96dd0d4c8ecdc2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/mountain/Layer_1.png using Guid(151eef41825813d4f96dd0d4c8ecdc2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd108b2409c155fca452d08de209ec4ca') in 0.023446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Scripts/change_scenes/change_scene.cs
+  artifactKey: Guid(b7b24bb152651a14fa191714a826ace1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/change_scenes/change_scene.cs using Guid(b7b24bb152651a14fa191714a826ace1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9be968ca2d2af61e56bd53f2aee2ccbc') in 0.011763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Scripts/spine-csharp/SkeletonBounds.cs
+  artifactKey: Guid(8c09c41a86f90534d862fa648d304ab5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/SkeletonBounds.cs using Guid(8c09c41a86f90534d862fa648d304ab5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ddd304551d7e242476729460fef04e30') in 0.011625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Asset Types/SkeletonDataAsset.cs
+  artifactKey: Guid(f1b3b4b945939a54ea0b23d3396115fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Asset Types/SkeletonDataAsset.cs using Guid(f1b3b4b945939a54ea0b23d3396115fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '046c5cbf60382231d4450ff2493f66fa') in 0.011446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Runtime/spine-unity.asmdef
+  artifactKey: Guid(68765d262e2128e4ab49c983f3411946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity.asmdef using Guid(68765d262e2128e4ab49c983f3411946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '08e9fdc2179517c14b4390814de5753e') in 0.012936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Audio/undead_survivor/sfx/Select.wav
+  artifactKey: Guid(4b294d59d2399014daa718b35c9de73b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Audio/undead_survivor/sfx/Select.wav using Guid(4b294d59d2399014daa718b35c9de73b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc71b9b80d673ddcd023b850cd5182ec') in 0.048180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/AcEnemy 2.overrideController
+  artifactKey: Guid(12cfc8b2360c2fc4499d4f6f6607671a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/AcEnemy 2.overrideController using Guid(12cfc8b2360c2fc4499d4f6f6607671a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1a4784de26a0571174d2ce84668834eb') in 0.025332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/full_background/4_Snow.png
+  artifactKey: Guid(429517ea1b1287a47952cd5cd8261d74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/full_background/4_Snow.png using Guid(429517ea1b1287a47952cd5cd8261d74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'edf42c026598329c72b2cd26a2a5fb4c') in 0.024131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Scenes/first_scene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/first_scene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8d8a02b570469cb869860987023e5595') in 0.012592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/desert/Layer_0.png
+  artifactKey: Guid(c923db515dd60ec4e9cd1f350be245a9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/desert/Layer_0.png using Guid(c923db515dd60ec4e9cd1f350be245a9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '12916a824d6aa89e5b9a69e2d091bde6') in 0.023343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scripts/spine-csharp/IUpdatable.cs
+  artifactKey: Guid(fba7d1e93605e0f499b6208390e798c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/IUpdatable.cs using Guid(fba7d1e93605e0f499b6208390e798c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bae1a02ec2f779f3cc8f353a37920200') in 0.011939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicScreen.mat
+  artifactKey: Guid(bab24c479f34eec45be6ea8595891569) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicScreen.mat using Guid(bab24c479f34eec45be6ea8595891569) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '50c7c4a7ff33ab198d699e465b2ed5eb') in 0.021879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Spine-Special-Skeleton-Grayscale.shader
+  artifactKey: Guid(ea7e7c05f36541b4bb280f98ebda8ba1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Spine-Special-Skeleton-Grayscale.shader using Guid(ea7e7c05f36541b4bb280f98ebda8ba1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '388720449896f3892a658a5f0dfe8133') in 0.023598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Utility/TimelineExtensions.cs
+  artifactKey: Guid(07807fefbff25484ba41b1d16911fb0e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Utility/TimelineExtensions.cs using Guid(07807fefbff25484ba41b1d16911fb0e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '32ce1fa4640961d13910fb570ecf0f38') in 0.013272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Utility/AttachmentCloneExtensions.cs
+  artifactKey: Guid(3431ed563b2c62f4c8c974a99365ba52) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Utility/AttachmentCloneExtensions.cs using Guid(3431ed563b2c62f4c8c974a99365ba52) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2a39e74222d888f4720011744b8a4f26') in 0.011676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-Tint.shader
+  artifactKey: Guid(522f03282fd79be47b306e2ef4b593fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-Tint.shader using Guid(522f03282fd79be47b306e2ef4b593fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c6d1541d70654cb5ed18137169722572') in 0.016380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Asset Types/SpineAtlasAssetInspector.cs
+  artifactKey: Guid(ca9b3ce36d70a05408e3bdd5e92c7f64) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Asset Types/SpineAtlasAssetInspector.cs using Guid(ca9b3ce36d70a05408e3bdd5e92c7f64) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '74aaf07e529b1c8d8e45bd486bd9e496') in 0.013389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs
+  artifactKey: Guid(01cbef8f24d105f4bafa9668d669e040) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs using Guid(01cbef8f24d105f4bafa9668d669e040) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a99159962a2f42e1bd1c2b234e78833e') in 0.012948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-Lit.shader
+  artifactKey: Guid(bd83c75f51f5e23498ae22ffcdfe92c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-Lit.shader using Guid(bd83c75f51f5e23498ae22ffcdfe92c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6066ae8edd6defb57737f942ce3f78e0') in 0.016960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Components/BoneFollowerGraphicInspector.cs
+  artifactKey: Guid(da44a8561fd243c43a1f77bda36de0eb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Components/BoneFollowerGraphicInspector.cs using Guid(da44a8561fd243c43a1f77bda36de0eb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '72f0ee99376112929b380fa68259ef7c') in 0.013554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-English (en)_ContentUpdateGroupSchema.asset
+  artifactKey: Guid(dccb3348688be1f4ab00a6fff485c4cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-English (en)_ContentUpdateGroupSchema.asset using Guid(dccb3348688be1f4ab00a6fff485c4cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '71b7da138b9c0f570704067c862a4186') in 0.014663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/package.json
+  artifactKey: Guid(09478c42aa0375347898d942d287a819) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/package.json using Guid(09478c42aa0375347898d942d287a819) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bae54a125a81ed91299488bd3222bf04') in 0.010286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Images/undead_survivor/enemies/Enemy 3.png
+  artifactKey: Guid(d33598d781682e049a53a0a13104ef29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/undead_survivor/enemies/Enemy 3.png using Guid(d33598d781682e049a53a0a13104ef29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bdbe83adfb8a9008caae06433dd323b2') in 0.038271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/RunEnemy 2.anim
+  artifactKey: Guid(d89bd5ff2e5805a46a05e1c461a2e88a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/RunEnemy 2.anim using Guid(d89bd5ff2e5805a46a05e1c461a2e88a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f7bf9f0e3306dc816b97a55c8b0d6f52') in 0.015289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Scripts/on_click/click_to_activate_button.cs
+  artifactKey: Guid(4506e73b962bf444dbcf64fadf929707) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/on_click/click_to_activate_button.cs using Guid(4506e73b962bf444dbcf64fadf929707) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7608a742002917576f4b2f041f12fef7') in 0.010134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-Locales_ContentUpdateGroupSchema.asset
+  artifactKey: Guid(97b4ba833627d4d4cb37677e17da7d0c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-Locales_ContentUpdateGroupSchema.asset using Guid(97b4ba833627d4d4cb37677e17da7d0c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c9e25ef32b6a7e8726f91e9973c78063') in 0.013125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-Fill.shader
+  artifactKey: Guid(45495790b394f894a967dbf44489b57b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-Fill.shader using Guid(45495790b394f894a967dbf44489b57b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0f43b4d05047fd4d6debf71711bc4914') in 0.016132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/SpineAttributeDrawers.cs
+  artifactKey: Guid(f2de282d583d4a641bf1c349f0a3eef9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/SpineAttributeDrawers.cs using Guid(f2de282d583d4a641bf1c349f0a3eef9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a4bba9586903c1c45bdcb464b9538ee8') in 0.011552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefaultGrayscale.mat
+  artifactKey: Guid(bfc4ecd22354c4d4fb43b85d82efacde) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefaultGrayscale.mat using Guid(bfc4ecd22354c4d4fb43b85d82efacde) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f537343e71dc3fdfbb012887626a4e9e') in 0.020423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Asset Types/AnimationReferenceAsset.cs
+  artifactKey: Guid(6e3e95a05e4c9774397eeeb7bdee8ccb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Asset Types/AnimationReferenceAsset.cs using Guid(6e3e95a05e4c9774397eeeb7bdee8ccb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'af6f43824fcc16eaae5dc5e880a7b202') in 0.012082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Utility/AtlasUtilities.cs
+  artifactKey: Guid(25ceef568a3dad448bf8a14fcc326964) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Utility/AtlasUtilities.cs using Guid(25ceef568a3dad448bf8a14fcc326964) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '022132d723cccbbdd319cc8daf6daa41') in 0.012975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicAdditive.mat
+  artifactKey: Guid(2e8245019faeb8c43b75f9ca3ac8ee34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Materials/SkeletonGraphicAdditive.mat using Guid(2e8245019faeb8c43b75f9ca3ac8ee34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd60ab1b90d28648ed83386a1943f0f64') in 0.020471 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Localization/UItexts_de.asset
+  artifactKey: Guid(766997acecd26c543874a33aa0e92ab0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Localization/UItexts_de.asset using Guid(766997acecd26c543874a33aa0e92ab0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '782b3c54f21bf5de9c9debd2b7c83956') in 0.014787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-constraintTransform.png
+  artifactKey: Guid(4709175437c21f64bab9b061f98a49fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-constraintTransform.png using Guid(4709175437c21f64bab9b061f98a49fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '70b7c21d3461ffdc359055d30cadf788') in 0.019548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-animationRoot.png
+  artifactKey: Guid(3d1be4ea889f3a14b864352fe49a1bde) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-animationRoot.png using Guid(3d1be4ea889f3a14b864352fe49a1bde) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c0bbe878e2d64a35ad8b6bddc4eb0645') in 0.021247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-weights.png
+  artifactKey: Guid(0b1bcb09fa228d049ba3c9ea6a57e1ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-weights.png using Guid(0b1bcb09fa228d049ba3c9ea6a57e1ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9b7156eb9a0aa371af6f5688c4045640') in 0.020469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-point.png
+  artifactKey: Guid(d7a76922e4dd9fa429da15c018ff127f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-point.png using Guid(d7a76922e4dd9fa429da15c018ff127f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0c953d73525fa0a2c9776f4823d14ef0') in 0.023243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-warning.png
+  artifactKey: Guid(754d724c1bd750048852e8cf3d4a05ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-warning.png using Guid(754d724c1bd750048852e8cf3d4a05ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '498a36942cfd9cb57c622db854ac0785') in 0.018608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonRendererInspector.cs
+  artifactKey: Guid(d0fc5db9788bce4418ad3252d43faa8a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonRendererInspector.cs using Guid(d0fc5db9788bce4418ad3252d43faa8a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '923d68c9ff206447fc22cbecd74d16e6') in 0.016971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Resources/SpineAssetDatabaseMarker.txt
+  artifactKey: Guid(57281c00bdd90ad4392f811f2b9f0da1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Resources/SpineAssetDatabaseMarker.txt using Guid(57281c00bdd90ad4392f811f2b9f0da1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '54cb68c3246f130fce8c76ed1b6b019c') in 0.011578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/ImporterPresets/StraightAlphaPresetTemplate.png
+  artifactKey: Guid(ade885c25e49d7740b5c00d4e10a6197) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/ImporterPresets/StraightAlphaPresetTemplate.png using Guid(ade885c25e49d7740b5c00d4e10a6197) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe777aadc82aae2318d5169830d8884e') in 0.022767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-boneNib.png
+  artifactKey: Guid(97a43f11e00735147a9dc3dff6d68191) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-boneNib.png using Guid(97a43f11e00735147a9dc3dff6d68191) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a02a73bcca8b9fd056d341eafb577ed3') in 0.020444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-skinPlaceholder.png
+  artifactKey: Guid(04c82a4acf7b5244e947f2709ec3a6cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-skinPlaceholder.png using Guid(04c82a4acf7b5244e947f2709ec3a6cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ad05c4021fec0e161b0df5a7ed0b1df6') in 0.020247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-attachment.png
+  artifactKey: Guid(04ae56b3698d3e844844cfcef2f009e7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-attachment.png using Guid(04ae56b3698d3e844844cfcef2f009e7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b76dda36257b48c711c2fd75ed5bdf76') in 0.018891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-spine.png
+  artifactKey: Guid(4e7c964fa5e07024c8bf1debecc3b7c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-spine.png using Guid(4e7c964fa5e07024c8bf1debecc3b7c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '62d25480c8c19c3fec78f08ab1bce1be') in 0.019797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-event.png
+  artifactKey: Guid(d226a80acc775714aa78b85e16a00e9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-event.png using Guid(d226a80acc775714aa78b85e16a00e9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '526e43dca697c75a9b106c16807a2dd5') in 0.021287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-null.png
+  artifactKey: Guid(d1de1604dfe4cb64c9d31246a8e43c78) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-null.png using Guid(d1de1604dfe4cb64c9d31246a8e43c78) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b576c78eecf453219e79682bcfd41174') in 0.020149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Shaders/SpineShaderWithOutlineGUI.cs
+  artifactKey: Guid(efbbf90926e217c40831926fce374905) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Shaders/SpineShaderWithOutlineGUI.cs using Guid(efbbf90926e217c40831926fce374905) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8017d3083cfe681a71741e0f37bd273e') in 0.013817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Scripts/spine-csharp/SkeletonData.cs
+  artifactKey: Guid(03cb55eb22c11844b8e2e08a4d7004c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/SkeletonData.cs using Guid(03cb55eb22c11844b8e2e08a4d7004c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0b9a3aae750f82ad6215949c978145cc') in 0.018193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-constraints.png
+  artifactKey: Guid(ed0736a1eb519ef42b4892d1db2426b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-constraints.png using Guid(ed0736a1eb519ef42b4892d1db2426b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd6808578f9ab4388d80560ca1efaad3a') in 0.020987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Spine/version.txt
+  artifactKey: Guid(80c06a67282e71043a4b1fad3e0c5654) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/version.txt using Guid(80c06a67282e71043a4b1fad3e0c5654) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6184636ddb9a8db68b3e2e51f6bd3230') in 0.012483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scripts/spine-csharp/Attachments/IHasTextureRegion.cs
+  artifactKey: Guid(d0e8b0a33cae75d498aa8c328787cafb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Attachments/IHasTextureRegion.cs using Guid(d0e8b0a33cae75d498aa8c328787cafb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ddc2f2278ea8592d983c02a6043aee3b') in 0.011872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/mountain/Layer_3.png
+  artifactKey: Guid(072fb9c03f98b8541804c8632eda3b74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/mountain/Layer_3.png using Guid(072fb9c03f98b8541804c8632eda3b74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '434f3fb5792c0dc2fb46784bdceceb2e') in 0.022842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/Following/BoneFollower.cs
+  artifactKey: Guid(a1fd8daaed7b64148a34acb96ba14ce1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/Following/BoneFollower.cs using Guid(a1fd8daaed7b64148a34acb96ba14ce1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '92640a6e52e05636f2d98ff61ac36e5b') in 0.012050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/BlendModeMaterialsUtility.cs
+  artifactKey: Guid(8094f8aedb33b7744b109c2c1294d37a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/BlendModeMaterialsUtility.cs using Guid(8094f8aedb33b7744b109c2c1294d37a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a1b7914d7c1ba6a2ca07f3406475076c') in 0.014330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/Following/BoundingBoxFollower.cs
+  artifactKey: Guid(0317ee9ba6e1b1e49a030268e026d372) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/Following/BoundingBoxFollower.cs using Guid(0317ee9ba6e1b1e49a030268e026d372) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fc6d82c458a97596ee121d38e400df48') in 0.013336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonMecanimRootMotion.cs
+  artifactKey: Guid(95813afe390494344a6ce2cbc8bfb7d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonMecanimRootMotion.cs using Guid(95813afe390494344a6ce2cbc8bfb7d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1a404e58bf824f9f08eb93f12bc5fa23') in 0.011027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/AssetUtility.cs
+  artifactKey: Guid(49377c72c37e2c149b106c260a241f3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/AssetUtility.cs using Guid(49377c72c37e2c149b106c260a241f3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '22425353e7b79495e3e8ff04bd2e161d') in 0.014013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/Preferences.cs
+  artifactKey: Guid(6d80c945a2e3436459a97b7a9a16ef46) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/Preferences.cs using Guid(6d80c945a2e3436459a97b7a9a16ef46) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e53f78c9b4b70f73f3c25d3f6b048b8') in 0.012516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/Following/PointFollower.cs
+  artifactKey: Guid(daf461e4341180341a648c07e1899528) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/Following/PointFollower.cs using Guid(daf461e4341180341a648c07e1899528) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ed8286d80ea5d568d96ce5f82907947f') in 0.013184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/Internal/SkeletonSubmeshGraphic.cs
+  artifactKey: Guid(deeb12332c062954093c24a3fab10b83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/Internal/SkeletonSubmeshGraphic.cs using Guid(deeb12332c062954093c24a3fab10b83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3b20e6c86579c0e125c90b6a24302a34') in 0.014384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Windows/SpriteAtlasImportWindow.cs
+  artifactKey: Guid(a5b99b091defeef439a0cb8c99fd8a51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Windows/SpriteAtlasImportWindow.cs using Guid(a5b99b091defeef439a0cb8c99fd8a51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '144835ce8f6490d941299e1831c5a753') in 0.012998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/Icons.cs
+  artifactKey: Guid(8603301469b2a284db8eaa26dc60ada8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/Icons.cs using Guid(8603301469b2a284db8eaa26dc60ada8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ae6bc5903c53c5a86740b1ea2ff002df') in 0.014009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonRootMotion.cs
+  artifactKey: Guid(f21c9538588898a45a3da22bf4779ab3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonRootMotion.cs using Guid(f21c9538588898a45a3da22bf4779ab3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec0f0b4ad0656b7afd0309f194d87459') in 0.012607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/Instantiation.cs
+  artifactKey: Guid(94ecc7f73dfc0484e848a0e6a1a11f2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/Instantiation.cs using Guid(94ecc7f73dfc0484e848a0e6a1a11f2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eb7d9690e6437a9ff88996ba52cc310f') in 0.011942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderSeparator/SkeletonRenderSeparator.cs
+  artifactKey: Guid(5c70a5b35f6ff2541aed8e8346b7e4d5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderSeparator/SkeletonRenderSeparator.cs using Guid(5c70a5b35f6ff2541aed8e8346b7e4d5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6c5f94948e8bb45dbe13b0d4f57a47ff') in 0.015767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Shaders/SpineSpriteShaderGUI.cs
+  artifactKey: Guid(aef90b4c481362e42891bb46de344c1c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Shaders/SpineSpriteShaderGUI.cs using Guid(aef90b4c481362e42891bb46de344c1c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd0c6fa6d3d5db8cb563767da5e450733') in 0.010713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Windows/SkeletonBaker.cs
+  artifactKey: Guid(687d9be457ea4eb44bf09c35c95ee5cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Windows/SkeletonBaker.cs using Guid(687d9be457ea4eb44bf09c35c95ee5cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '33c961d758aaaf9b3d8b07bb06886e19') in 0.012009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/Following/BoundingBoxFollowerGraphic.cs
+  artifactKey: Guid(1c0bf7b497af9f74280040d96cdf88da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/Following/BoundingBoxFollowerGraphic.cs using Guid(1c0bf7b497af9f74280040d96cdf88da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6acae01538cc3b949664efe78cdb9dcc') in 0.012681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Localization-String-Tables-German (de).asset
+  artifactKey: Guid(ce087992df28b214d986e9d290f599ae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Localization-String-Tables-German (de).asset using Guid(ce087992df28b214d986e9d290f599ae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0a942218b47a43745832a5f129d512d8') in 0.014956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/animated_zombi.controller
+  artifactKey: Guid(334c342afa8492c49ade63ae2b082bb7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/animated_zombi.controller using Guid(334c342afa8492c49ade63ae2b082bb7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'df19897ddf08fd12d8b238fdd227864e') in 0.014514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/DeadEnemy 1.anim
+  artifactKey: Guid(c864fa25416499f459180c6db2f70566) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/DeadEnemy 1.anim using Guid(c864fa25416499f459180c6db2f70566) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3d74d978c3ea406e246fd08d6d7a2299') in 0.013810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Asset Types/AnimationReferenceAssetEditor.cs
+  artifactKey: Guid(9511532e80feed24881a5863f5485446) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Asset Types/AnimationReferenceAssetEditor.cs using Guid(9511532e80feed24881a5863f5485446) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e479029f356efbe788708a8e620e541') in 0.012810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-clipping.png
+  artifactKey: Guid(f5fff1b5caee03642ab77c9984b4bb6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-clipping.png using Guid(f5fff1b5caee03642ab77c9984b4bb6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '37aceef100b300cc3875e2f3c85ecd2c') in 0.028058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Components/BoundingBoxFollowerInspector.cs
+  artifactKey: Guid(670a3cefa3853bd48b5da53a424fd542) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Components/BoundingBoxFollowerInspector.cs using Guid(670a3cefa3853bd48b5da53a424fd542) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9033285392fc518ea02c215324c9840f') in 0.013870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Sprite/SpritesUnlit.shader
+  artifactKey: Guid(64005298b9a80bb4899eabd5140dc4a8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Sprite/SpritesUnlit.shader using Guid(64005298b9a80bb4899eabd5140dc4a8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'db78e6da022e82ff86aca3384a90e262') in 0.018850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CameraDepthTexture.shader
+  artifactKey: Guid(f768a57e040cc48489ad8c7392a31154) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CameraDepthTexture.shader using Guid(f768a57e040cc48489ad8c7392a31154) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ff3c22a8f97e2a21d09506766d619eef') in 0.026024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Sprite/README.md
+  artifactKey: Guid(cecd0ea162097a94c89a97af6baf0a66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Sprite/README.md using Guid(cecd0ea162097a94c89a97af6baf0a66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cd6caf134651cce0d617aae2fa09f23a') in 0.019023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonStraightScreen.mat
+  artifactKey: Guid(1a66c2d7ee7642a459bd3831abeb30af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonStraightScreen.mat using Guid(1a66c2d7ee7642a459bd3831abeb30af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '91ad21389a36545539252f85df317906') in 0.019023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Additive.shader
+  artifactKey: Guid(53efa1d97f5d9f74285d4330cda14e36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Additive.shader using Guid(53efa1d97f5d9f74285d4330cda14e36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '246e032b57a9d5b203703d4326625b56') in 0.015304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic.shader
+  artifactKey: Guid(fa95b0fb6983c0f40a152e6f9aa82bfb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic.shader using Guid(fa95b0fb6983c0f40a152e6f9aa82bfb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e9ecf2b224bd8eb18eaf5490cc069a85') in 0.014732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Utility/HiddenPass.mat
+  artifactKey: Guid(43227e5adadc6f24bb4bf74b92a56fb4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Utility/HiddenPass.mat using Guid(43227e5adadc6f24bb4bf74b92a56fb4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '195ed0b74c65df11f6b1cef4ec0dbc98') in 0.013436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonStraightMultiply.mat
+  artifactKey: Guid(053fed1e18e65064ca564f05c4027e1e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonStraightMultiply.mat using Guid(053fed1e18e65064ca564f05c4027e1e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7c8adbde567721d4d3c8807053e01bc2') in 0.016144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonPMAAdditive.mat
+  artifactKey: Guid(4deba332d47209e4780b3c5fcf0e3745) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonPMAAdditive.mat using Guid(4deba332d47209e4780b3c5fcf0e3745) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'beb6b90a96d7af0615755a82d368a259') in 0.017341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/Default BlendModeMaterials.asset
+  artifactKey: Guid(22c0225612a65ee4fb15bad49f644762) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/Default BlendModeMaterials.asset using Guid(22c0225612a65ee4fb15bad49f644762) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd39cad15a20f575533a344a898d56100') in 0.015385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Utility/HiddenPass.shader
+  artifactKey: Guid(913475501bf19374c84390868a9d6d3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Utility/HiddenPass.shader using Guid(913475501bf19374c84390868a9d6d3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5749590bcd6b90a468e1d19c0c22a8eb') in 0.015119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic-Screen.shader
+  artifactKey: Guid(c61244023592f95479fddd71b5067683) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic-Screen.shader using Guid(c61244023592f95479fddd71b5067683) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '73d045b51c8547ddbdf80390bf7f209a') in 0.016523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-BlendModes-NormalPass.cginc
+  artifactKey: Guid(6e28a50646b0e9542a1c93c2d9d993d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-BlendModes-NormalPass.cginc using Guid(6e28a50646b0e9542a1c93c2d9d993d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '734fa46c32134b95fe6a73e7ac991cd5') in 0.014261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-Lit-Outline.shader
+  artifactKey: Guid(10fab3f69a099be4391fe8a1ad880c65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-Lit-Outline.shader using Guid(10fab3f69a099be4391fe8a1ad880c65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3c197ecbd62700e8273be9e928a340ec') in 0.018148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-BlendModes-ShadowCasterPass.cginc
+  artifactKey: Guid(76beace455f83a8488bf044605212b2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-BlendModes-ShadowCasterPass.cginc using Guid(76beace455f83a8488bf044605212b2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aac95fe38df9bfb91425b600687b477f') in 0.011310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonPMAMultiply.mat
+  artifactKey: Guid(53bf0ab317d032d418cf1252d68f51df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/SkeletonPMAMultiply.mat using Guid(53bf0ab317d032d418cf1252d68f51df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '85e650f9aefe43d18d2c56cd7b2c4395') in 0.012361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-Fill-Outline.shader
+  artifactKey: Guid(e158cbe58baa093438feb3d691f3daba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-Fill-Outline.shader using Guid(e158cbe58baa093438feb3d691f3daba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '332e84ef2c0f5e23ded351a1bcabb8ae') in 0.036239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-Outline.shader
+  artifactKey: Guid(28b5cf4804845fe4b868531fd0bb81d5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-Outline.shader using Guid(28b5cf4804845fe4b868531fd0bb81d5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2279957171cfa72c48d09a2c8e2595a7') in 0.020368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-Common.cginc
+  artifactKey: Guid(f0c09e980440e7f4f8db4f9f146d320c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-Common.cginc using Guid(f0c09e980440e7f4f8db4f9f146d320c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c8577357f23fd9bddcf9847bb3a1d6c9') in 0.012012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-Skeleton-Lit-Common.cginc
+  artifactKey: Guid(70c77c02aabd5e44f94aab48dd0be7b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-Skeleton-Lit-Common.cginc using Guid(70c77c02aabd5e44f94aab48dd0be7b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e9f2e4360f8a7cbe387e324f8c8730c6') in 0.012562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/SkeletonGraphic/Spine-SkeletonGraphic-Outline.shader
+  artifactKey: Guid(8f5d14d2a7fedb84998c50eb96c8b748) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/SkeletonGraphic/Spine-SkeletonGraphic-Outline.shader using Guid(8f5d14d2a7fedb84998c50eb96c8b748) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '73bee76749b799576d508699b5215eae') in 0.019955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/Sprite/SpritesVertexLit-Outline.shader
+  artifactKey: Guid(30ef5dd318033004588a6481c092416a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/Sprite/SpritesVertexLit-Outline.shader using Guid(30ef5dd318033004588a6481c092416a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ab4f5b77dd72277c90b475e733d5ba4') in 0.019789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CGIncludes/SpriteUnlit.cginc
+  artifactKey: Guid(072e7b07ec7fb1346a9dcd3bcbbb7111) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CGIncludes/SpriteUnlit.cginc using Guid(072e7b07ec7fb1346a9dcd3bcbbb7111) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bdc696faaea609ac42669eeacb76e8c6') in 0.012094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/CGIncludes/Spine-Outline-Pass.cginc
+  artifactKey: Guid(2ec781e799f97504c8a418e168759f70) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/CGIncludes/Spine-Outline-Pass.cginc using Guid(2ec781e799f97504c8a418e168759f70) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f33fd7f71138f0c4058968696b5eabae') in 0.011067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Editor/spine-unity/Modules/SkeletonRenderSeparator/Editor/SkeletonPartsRendererInspector.cs
+  artifactKey: Guid(30e43037bf4433645ad70266f34c1c8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Modules/SkeletonRenderSeparator/Editor/SkeletonPartsRendererInspector.cs using Guid(30e43037bf4433645ad70266f34c1c8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f46f035bfae4a931de01f8a2147709a8') in 0.012937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimationComplete.cs
+  artifactKey: Guid(a807dd9fb79db3545b6c2859a2bbfc0b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimationComplete.cs using Guid(a807dd9fb79db3545b6c2859a2bbfc0b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1b64a959f2b87c74159a6037ec6da70d') in 0.012375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/Sprite/SpritesPixelLit-Outline.shader
+  artifactKey: Guid(a27d4b27c8ecd9840a03558ccc5ad8a3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/Sprite/SpritesPixelLit-Outline.shader using Guid(a27d4b27c8ecd9840a03558ccc5ad8a3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5537c46d8886785698aae0114c65b5a8') in 0.023261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/SkeletonGraphic/Spine-SkeletonGraphic-TintBlack-Outline.shader
+  artifactKey: Guid(d55d64dd09c46af40a319933a62fa1b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/SkeletonGraphic/Spine-SkeletonGraphic-TintBlack-Outline.shader using Guid(d55d64dd09c46af40a319933a62fa1b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '14e662f7ce08f2cb1823c658ae194c40') in 0.017231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CGIncludes/SpriteShadows.cginc
+  artifactKey: Guid(b7dbdfb1f55ee26459284220ad6d5bc4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CGIncludes/SpriteShadows.cginc using Guid(b7dbdfb1f55ee26459284220ad6d5bc4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b4d7bb14051ab33101266d20735133b3') in 0.011771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CGIncludes/ShaderShared.cginc
+  artifactKey: Guid(c18c5cab567666f4d8c5b2bd4e61390b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Sprite/CGIncludes/ShaderShared.cginc using Guid(c18c5cab567666f4d8c5b2bd4e61390b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c888fc8cc7a74e73489b79af95c89911') in 0.015330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/BlendModes/Spine-Skeleton-PMA-Additive-Outline.shader
+  artifactKey: Guid(0299ffae826705448b6c80ccc6a53b75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/BlendModes/Spine-Skeleton-PMA-Additive-Outline.shader using Guid(0299ffae826705448b6c80ccc6a53b75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1b915994e3fbce74d29a737650215e45') in 0.074308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs
+  artifactKey: Guid(f834d5cd806ec4645915ac315edbdc60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs using Guid(f834d5cd806ec4645915ac315edbdc60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '849837e4e6d07a779efa00663b864063') in 0.011274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-German (de)_ContentUpdateGroupSchema.asset
+  artifactKey: Guid(89ff570bea5d8284fb43bc9abc67d009) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-German (de)_ContentUpdateGroupSchema.asset using Guid(89ff570bea5d8284fb43bc9abc67d009) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a454d63910a87853a6370ed3f58c39ef') in 0.013035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine_Images/spineboy/spineboy.atlas.txt
+  artifactKey: Guid(5c0a5c36970a46e4d8378760ab4a4cfc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine_Images/spineboy/spineboy.atlas.txt using Guid(5c0a5c36970a46e4d8378760ab4a4cfc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '40b60ea18364689439a3ced42167b3c2') in 0.011089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Utility/AttachmentRegionExtensions.cs
+  artifactKey: Guid(7e7eac783deea004e9bc403eca68a7dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Utility/AttachmentRegionExtensions.cs using Guid(7e7eac783deea004e9bc403eca68a7dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e4ae4ea5ec629c11e1fc03fa8146c617') in 0.013258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Utility/DataReloadHandler.cs
+  artifactKey: Guid(d8a1a76014a68634a8ede50af6db1cae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Utility/DataReloadHandler.cs using Guid(d8a1a76014a68634a8ede50af6db1cae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'beff8b31cabfe080fef012f3eae44c61') in 0.013067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-slot.png
+  artifactKey: Guid(0338faf3e7d93e2478fcbc022d13e081) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-slot.png using Guid(0338faf3e7d93e2478fcbc022d13e081) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4a9e678ce403adddca18c453642394ec') in 0.029840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/AtlasAsset Icon.png
+  artifactKey: Guid(3fc714a0dc1cf6b4b959e073fff2844e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/AtlasAsset Icon.png using Guid(3fc714a0dc1cf6b4b959e073fff2844e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1d3c713c644e7a08f2c0076d4f820fbe') in 0.023210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/HitEnemy 4.anim
+  artifactKey: Guid(6a46f5dc3fb296a46b193c1f02f99119) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/HitEnemy 4.anim using Guid(6a46f5dc3fb296a46b193c1f02f99119) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f8e0ae051d80074874eea5292468f32f') in 0.015106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonMecanimRootMotionInspector.cs
+  artifactKey: Guid(4613924c50d66cf458f0db803776dd2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonMecanimRootMotionInspector.cs using Guid(4613924c50d66cf458f0db803776dd2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '250893ba3af1ac62031bb8eafc799ac0') in 0.016626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/BlendModes/Spine-Skeleton-PMA-Multiply-Outline.shader
+  artifactKey: Guid(4b3566a937643b8498d1ec6df5880b77) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/BlendModes/Spine-Skeleton-PMA-Multiply-Outline.shader using Guid(4b3566a937643b8498d1ec6df5880b77) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7739c5dd469fb6ae85914932598ad53f') in 0.020347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset
+  artifactKey: Guid(2707bc0081a16824e89c7b89e337d1aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset using Guid(2707bc0081a16824e89c7b89e337d1aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f3b5088225c78db133a2b40d8b9764fb') in 0.017327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonRootMotionBaseInspector.cs
+  artifactKey: Guid(f2cba83baf6afdf44a996e40017c6325) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonRootMotionBaseInspector.cs using Guid(f2cba83baf6afdf44a996e40017c6325) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd2fa0127652a2358c62f6ca5ae845852') in 0.018281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-animation.png
+  artifactKey: Guid(52b12ec801461494185a4d3dc66f3d1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-animation.png using Guid(52b12ec801461494185a4d3dc66f3d1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1539d73806688513281a89c143b499ec') in 0.021514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Components/SkeletonAnimation.cs
+  artifactKey: Guid(d247ba06193faa74d9335f5481b2b56c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Components/SkeletonAnimation.cs using Guid(d247ba06193faa74d9335f5481b2b56c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0b324ac90239cd1bcb2d414b4bc0a6e6') in 0.013772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Built In Data.asset
+  artifactKey: Guid(26df309b30db7a4419d50d6b01fc1817) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/AddressableAssetsData/AssetGroups/Built In Data.asset using Guid(26df309b30db7a4419d50d6b01fc1817) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '51ff8556d6463db83697ab87addc7e5f') in 0.014744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/AcEnemy 0.controller
+  artifactKey: Guid(f2855d618fc8d9c499189d3f39b9cbbc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/AcEnemy 0.controller using Guid(f2855d618fc8d9c499189d3f39b9cbbc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e875fbc7b8302e5e679c54da555ce4fb') in 0.012698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Animations/undead_survivor/Enemy/RunEnemy 0.anim
+  artifactKey: Guid(41eb84b5ea0c13b4384ead9f37ce4b8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animations/undead_survivor/Enemy/RunEnemy 0.anim using Guid(41eb84b5ea0c13b4384ead9f37ce4b8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aca8c7b9565b761dc4be8d9e3678b959') in 0.982070 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-Skeleton-Tint-Common.cginc
+  artifactKey: Guid(cc9439c8e75fb7e4c82ad725b649b047) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/CGIncludes/Spine-Skeleton-Tint-Common.cginc using Guid(cc9439c8e75fb7e4c82ad725b649b047) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'be3b9afbcd0979596b1844c63820b5e4') in 0.011577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Audio/undead_survivor/sfx/LevelUp.wav
+  artifactKey: Guid(64795b87003c2324fa0814fbc336066c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Audio/undead_survivor/sfx/LevelUp.wav using Guid(64795b87003c2324fa0814fbc336066c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd9571ebd5f89002956c40becae7aa852') in 0.050715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-TintBlack-Outline.shader
+  artifactKey: Guid(49cf725a1e40e7742be92917f83946c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/Outline/Spine-Skeleton-TintBlack-Outline.shader using Guid(49cf725a1e40e7742be92917f83946c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e630d53a3d74a39e91e9d38cdf9f1ee9') in 0.054764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonGraphicInspector.cs
+  artifactKey: Guid(0d81cc76b52fcdf499b2db252a317726) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Components/SkeletonGraphicInspector.cs using Guid(0d81cc76b52fcdf499b2db252a317726) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '787a5d0f6028570be9de83e15294147d') in 0.012464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Images/2d_cartoon_parallax_background/snow/Layer_3.png
+  artifactKey: Guid(5363ba5ff6a4d25418d986e793446fdb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Images/2d_cartoon_parallax_background/snow/Layer_3.png using Guid(5363ba5ff6a4d25418d986e793446fdb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b07c8593be16f2f4d1ce51696eced624') in 0.025975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/Windows/SkeletonBakingWindow.cs
+  artifactKey: Guid(868b0caae5b3e65408ece1ab400c4a99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/Windows/SkeletonBakingWindow.cs using Guid(868b0caae5b3e65408ece1ab400c4a99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cbf74cebc7a839d8e40668b4de96fce8') in 0.014126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scripts/spine-csharp/Bone.cs
+  artifactKey: Guid(40270efe31ef3794c9ea8e94489acb06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/spine-csharp/Bone.cs using Guid(40270efe31ef3794c9ea8e94489acb06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7255c9bb89dbd976d071ef3b1627aff8') in 0.013617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimation.cs
+  artifactKey: Guid(d9be5adcaf0003849a1d181173c19635) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimation.cs using Guid(d9be5adcaf0003849a1d181173c19635) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49495b90e828d644844da03efe0e236f') in 0.018200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic-Fill.shader
+  artifactKey: Guid(c02377d9afbb50e49ab27049e59fb5f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic-Fill.shader using Guid(c02377d9afbb50e49ab27049e59fb5f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '348e2fb62cda43056b81899b58593895') in 0.016607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spine/Editor/spine-unity/Editor/GUI/icon-constraintPath.png
+  artifactKey: Guid(c1aae98dd56b14c4b8c25360000b7e9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Spine/Editor/spine-unity/Editor/GUI/icon-constraintPath.png using Guid(c1aae98dd56b14c4b8c25360000b7e9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2d42c976cbade793e255cd279f2a7eb1') in 0.026244 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.71 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5656.
+Memory consumption went from 95.3 MB to 93.7 MB.
+Total: 6.119900 ms (FindLiveObjects: 0.557800 ms CreateObjectMapping: 0.134500 ms MarkObjects: 4.548200 ms  DeleteObjects: 0.878100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007239 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Elephant_Game\Test_Elepghant_Game\Test_Elephant_Game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Elephant_Game\Test_Elepghant_Game\Test_Elephant_Game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.131 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1131ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (862ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (291ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (328ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (31ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.72 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5156 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.5 MB). Loaded Objects now: 5659.
+Memory consumption went from 197.5 MB to 196.0 MB.
+Total: 4.310800 ms (FindLiveObjects: 0.468600 ms CreateObjectMapping: 0.131800 ms MarkObjects: 2.918600 ms  DeleteObjects: 0.790900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 245.806950 seconds.
+  path: Assets/Localization/UItexts1.asset
+  artifactKey: Guid(bdba13f1149dac84d826f542f2bdbe04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Localization/UItexts1.asset using Guid(bdba13f1149dac84d826f542f2bdbe04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3dce3f5bf55a6607e2531f9cc6d85d') in 0.028236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Localization/UItexts1_de.asset
+  artifactKey: Guid(766997acecd26c543874a33aa0e92ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Localization/UItexts1_de.asset using Guid(766997acecd26c543874a33aa0e92ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a30046739546b0af977075269bc5621') in 0.015749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 124.488485 seconds.
+  path: Assets/Localization/UItext_de.asset
+  artifactKey: Guid(b56abc370d690944ab4a4679dffd2759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Localization/UItext_de.asset using Guid(b56abc370d690944ab4a4679dffd2759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d48cad8f531311ea3cb5e5e0ca4fde') in 0.005659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Localization/UItext_en.asset
+  artifactKey: Guid(d4a07d48a9a2491458b6764afb95b842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Localization/UItext_en.asset using Guid(d4a07d48a9a2491458b6764afb95b842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181cb280049a484f40efe2b41dbbeaf5') in 0.010330 seconds 

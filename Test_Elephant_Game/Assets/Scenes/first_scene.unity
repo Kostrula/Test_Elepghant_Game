@@ -878,10 +878,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: button _to_schenge_scene
       objectReference: {fileID: 0}
-    - target: {fileID: 8526725258346924483, guid: 0941388ee1c7b3645ba94da2b9d796b7, type: 3}
-      propertyPath: scene_name
-      value: second_scene
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0941388ee1c7b3645ba94da2b9d796b7, type: 3}
 --- !u!1001 &1835231827

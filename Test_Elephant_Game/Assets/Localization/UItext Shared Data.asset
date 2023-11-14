@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UItext Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UItext
+  m_TableCollectionNameGuidString: efc00b05b9573b84e9d129761d5b0bbc
+  m_Entries:
+  - m_Id: 1377385918464
+    m_Key: 'Key_go_to_the_second_scene
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882329124864
+    m_Key: Key_go_to_the_first_scene
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6932174840297947143
+  references:
+    version: 2
+    RefIds:
+    - rid: 6932174840297947143
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699923074075
